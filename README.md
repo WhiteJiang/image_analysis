@@ -5,3 +5,4 @@
 ## worker4: 几何运算
 ## worker5: DPCM编码
 ## worker6: 阈值分割
+## worker7: 分水岭算法
